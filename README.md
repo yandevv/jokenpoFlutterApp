@@ -1,4 +1,4 @@
-# Jokenpô on Flutter 🪨📄✂️
+# Jokenpô on Flutter ✊📄✂️
 🚀 Singleplayer Jokenpô game made with Flutter available in mobile, desktop and web devices!
 
 ## Features
